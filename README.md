@@ -1,10 +1,21 @@
 # command-line-note
 
 ## cd
-change directory
+> change directory
 
 `cd ~`: 家目錄
+
 `cd -`: 返回上一個資料夾
+
+---
+
+## du
+> disk usage
+
+**取得路徑的資料夾大小**
+`du -sh PATH`
+
+---
 
 ## git 
 
